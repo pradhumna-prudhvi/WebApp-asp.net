@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'east-cloud4n'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1db34f1eafd049f994d5238d8b383077 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0659415a9a234adc88f895768705db40 }}
         package: .
